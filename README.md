@@ -17,15 +17,21 @@
 - Participant Browsing
 
 User Stories:
+
     Unauthenticated Users and all roles
+
+
     US1:
-        Access to Landing Page
-        Browse through produtcs based on filters (text, seller, location or tags), with custom order
-        Access to product details and related content from any product name
-        Access all products by a user from his detail page
-        View user accounts using filters, sortable and paged lists
-        Possibility of authentication with valid credentials
-        Possibility of register
+
+        - Access to Landing Page
+        - Browse through produtcs based on filters (text, seller, location or tags), with custom order
+        - Access to product details and related content from any product name
+        - Access all products by a user from his detail page
+        - View user accounts using filters, sortable and paged lists
+        - Possibility of authentication with valid credentials
+        - Possibility of register
+
+        
     Administrator Role
     US2:
         Block product advertisement from detail page
